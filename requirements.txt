@@ -1,0 +1,12 @@
+streamlit
+fastapi
+uvicorn[standard]
+langchain
+langchain-google-genai
+langchain-core
+langchain-text-splitters
+pydantic
+PyPDF2
+marko
+requests
+python-multipart
